@@ -16,26 +16,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 🚀 Projects
 
 ### 🔭 Featured Project 1
-- **Description:** A brief description of the project.
+- **Description:** A learning application using multiple choice.
 - **Tech Stack:** List of technologies used.
-- **Repository:** [Project Repo](https://github.com/Spazapy/project1)
+- **Repository:** [Project Repo](https://github.com/malex1306/DOVK)
 
 ### 🌟 Featured Project 2
 - **Description:** A brief description of the project.
 - **Tech Stack:** List of technologies used.
 - **Repository:** [Project Repo](https://github.com/Spazapy/project2)
-
-### 🌍 Open Source Contributions
-- **Project Name:** [Contribution Repo](https://github.com/contribution/repo)
-  - Description of your contribution.
-- **Project Name:** [Contribution Repo](https://github.com/contribution/repo)
-  - Description of your contribution.
-
-## 📝 Blog Posts
-
-- [Title of Blog Post 1](https://yourblog.com/post1)
-- [Title of Blog Post 2](https://yourblog.com/post2)
-- [More Posts](https://yourblog.com)
+  
+## 🛠️ Currently learning 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 📫 Get in Touch
 
