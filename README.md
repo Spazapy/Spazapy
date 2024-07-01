@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🔭 Featured Project 1
 - **Description:** A learning application using multiple choice.
 - **Tech Stack:** List of technologies used.
-- **Repository:** [Project Repo](https://github.com/malex1306/DOVK)
+- **Repository:** [Learningapp](https://github.com/malex1306/DOVK)
 
 ### 🌟 Featured Project 2
 - **Description:** A brief description of the project.
