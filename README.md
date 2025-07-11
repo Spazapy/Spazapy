@@ -20,6 +20,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🔭 Featured Project 1
 - **Description:** A learning application using multiple choice.
 - **Repository:** [Learningapp](https://github.com/malex1306/DOVK)
+
+### 🔭 Featured Project 2
+- **Description:** Ticketsystem using ASP.NET Core & Docker
+- **Repository:** [Ticketsystem](https://github.com/vascoalexander/ticketsystem)
   
 ## 🛠️ Currently learning 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
