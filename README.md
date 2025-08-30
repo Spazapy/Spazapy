@@ -24,6 +24,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🔭 Featured Project 2
 - **Description:** Ticketsystem using ASP.NET Core & Docker
 - **Repository:** [Ticketsystem](https://github.com/vascoalexander/ticketsystem)
+
+### 🔭 Featured Project 3
+- **Description:** Kids Learning App using ASP.NET Core & Angular
+- **Repository:** [KidsLearningApp](https://github.com/malex1306/KidsLearningApp.git)
+
   
 ## 🛠️ Currently learning 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
